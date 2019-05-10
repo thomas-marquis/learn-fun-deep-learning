@@ -1,0 +1,35 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+spyder3 = "*"
+pyqt5 = "*"
+ipython = "*"
+cython = "*"
+jedi = "*"
+matplotlib = "*"
+nbconvert = "*"
+numpy = "*"
+pandas = "*"
+pycodestyle = "*"
+pyflakes = "*"
+pygments = "*"
+pylint = "*"
+qtconsole = "*"
+rope = "*"
+sphinx = "*"
+sympy = "*"
+qtawesome = "*"
+pickleshare = "*"
+pyzmq = "*"
+qtpy = "*"
+chardet = "*"
+numpydoc = "*"
+cloudpickle = "*"
+
+[packages]
+
+[requires]
+python_version = "3.7"
